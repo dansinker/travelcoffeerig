@@ -24,3 +24,9 @@ Heating Water
 Carrying everything
 ------
 I use a gallon ziplock to carry everything just for ease of questions at security (was never a problem until I added the kettle), but I know some folks that have a small enough setup that they get it into one of those nice canvas [Klein Tools 5139](http://www.amazon.com/Klein-5139-2-Inch-Canvas-Zipper/dp/B000BQRCKY/ref=sr_1_4?ie=UTF8&qid=1420581921&sr=8-4&keywords=klein+tools+bag) bags. If you're bringing a sizable amount of beans, you're not going to get it into a Klein bag tho.
+
+Other stuff
+-------
+cleaning up: I started bringing a handkerchief in my rig this summer, and I feel a lot better about wiping up with that than the white hand towels of a hotel room. I'm sure I've given some housekeeping staffers a hell of a fright before (note: always tip your housekeeping folks).
+
+keeping things tidy: those dimebag-sized "snack" ziplock bags are your best friend. You can store some aeropress filters in one, about 3 days worth of beans in another.
