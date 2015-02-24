@@ -3,7 +3,7 @@ My Travel Coffee Rig
 
 Bringing a coffee rig on trips with you is amazing. It transforms your hotel room mornings and lets you have a great cup of coffee without having to deal with awful lines at shitty hotel coffee places. It's also a nice way of inviting people over in the morning and having a chat: rarely do people turn down a fresh-brewed cup.
 
-I've been asked about [my rig](https://twitter.com/dansinker/status/494116328395915265) a bunch of times, so here are some notes:
+I've been asked about [my rig](https://twitter.com/dansinker/status/570186554301239296) a bunch of times, so here are some notes:
 
 Brewing
 ------
@@ -11,7 +11,7 @@ I like the [Aeropress](http://www.amazon.com/Aeropress-Coffee-and-Espresso-Maker
 
 Grinding
 ------
-If you're going to the trouble of brewing your own coffee, you should be grinding your beans on the spot, not bringing days-old grounds with you. [The Porlex Mini Grinder](http://www.amazon.com/Porlex-Mini-Stainless-Coffee-Grinder/dp/B0044ZA066/ref=sr_1_1?ie=UTF8&qid=1420581420&sr=8-1&keywords=porlex+mini) actually fits inside the aeropress's tube, so your two main coffee needs are real compact, Russian nesting doll style. Note: I don't have the Porlex but I wish I did.
+If you're going to the trouble of brewing your own coffee, you should be grinding your beans on the spot, not bringing days-old grounds with you. [The Porlex Mini Grinder](http://www.amazon.com/Porlex-Mini-Stainless-Coffee-Grinder/dp/B0044ZA066/ref=sr_1_1?ie=UTF8&qid=1420581420&sr=8-1&keywords=porlex+mini) actually fits inside the aeropress's tube, so your two main coffee needs are real compact, Russian nesting doll style.
 
 Scale
 ------
