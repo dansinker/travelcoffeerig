@@ -23,7 +23,9 @@ Heating Water
 
 Carrying everything
 ------
-I use a gallon ziplock to carry everything just for ease of questions at security (was never a problem until I added the kettle), but I know some folks that have a small enough setup that they get it into one of those nice canvas [Klein Tools 5139](http://www.amazon.com/Klein-5139-2-Inch-Canvas-Zipper/dp/B000BQRCKY/ref=sr_1_4?ie=UTF8&qid=1420581921&sr=8-4&keywords=klein+tools+bag) bags. If you're bringing a sizable amount of beans, you're not going to get it into a Klein bag tho.
+I used to use a gallon ziplock to carry everything just for ease of questions at airport security (was never a problem until I added the kettle), but I know some folks that have a small enough setup that they get it into one of those nice canvas [Klein Tools 5139](http://www.amazon.com/Klein-5139-2-Inch-Canvas-Zipper/dp/B000BQRCKY/ref=sr_1_4?ie=UTF8&qid=1420581921&sr=8-4&keywords=klein+tools+bag) bags. If you're bringing a sizable amount of beans, you're not going to get it into a Klein bag tho.
+
+What I use now is a packing cube that measures 11 x 6.75 x 3 inches. I got it as part of an [Amazon Basics packing cube pack](https://www.amazon.com/AmazonBasics-4-Piece-Packing-Cube-Set/dp/B014VBGUCA/ref=sr_1_11?ie=UTF8&qid=1521659884&sr=8-11&keywords=packing%2Bcubes&th=1), but probably you can find a similar one sold separately at a Container Store or something like that. It's a great size and fits the kettle w/ Aeropress inside, the grinder, and a bag of beans all really nicely.
 
 Other stuff
 -------
